@@ -1,6 +1,6 @@
 # 快速存檔芝士
 def Save_as_FITS(the_file_name, ima_data, ref_header, ref_beam, beam_a_Beam):
-    the_file_name = the_file_name + 'fits'
+    the_file_name = the_file_name + '.fits'
     the_header = ref_header.copy() # new header 是複製一個已知 header 的大部分...
     if beam_a_Beam == True: # ref_beam 是實際意義上的 Beam 的話
         the_header['BMAJ'] = ref_beam.major.to(units.deg).value
@@ -11,7 +11,7 @@ def Save_as_FITS(the_file_name, ima_data, ref_header, ref_beam, beam_a_Beam):
         the_header['BMIN'] = ref_beam['BMAJ']
         the_header['BPA'] = ref_beam['BMAJ']
     fits.writeto(the_file_name, ima_data, the_header, overwrite=True)
-    print(f'Successfully saved a new FITS file as{the_file_name}')
+    print(f'Successfully saved a new FITS file as {the_file_name}')
 
 """
 the_file_name :
