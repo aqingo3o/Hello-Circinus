@@ -6,16 +6,15 @@
 小心使用！！
 '''
 from casatasks import importfits, imsmooth, exportfits
-import os
 import shutil
 
-shutil.rmtree('/folder_name')
 def Do_smooth(pathIN, kernel, tarBeam, fitsOUT) :
     importfits(fitsimage=pathIN, imagename='casaIN.image', overwrite=True) 
-    imsmooth(imagename='casaIN.image', outfile='casa_OUT.image', kernel=kernel, beam=tarBeam, overwrite=True)
-    exportfits(imagename='casa_OUT.image', fitsimage=fitsOUT, overwrite=True)
-    shutil.rmtree('/casaIN.image')
-    shutil.rmtree('/casaOUT.image')
+    imsmooth(imagename='casaIN.image', outfile='casaOUT.image', kernel=kernel, beam=tarBeam, overwrite=True)
+    exportfits(imagename='casaOUT.image', fitsimage=fitsOUT, overwrite=True)
+    shutil.rmtree('casaIN.image')
+    shutil.rmtree('casaOUT.image')
+    print('clean metafiles')
 
 
 # for example
