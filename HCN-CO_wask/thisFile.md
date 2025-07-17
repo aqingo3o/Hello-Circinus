@@ -5,3 +5,7 @@
 
 每個檔案的標頭應該都含在 ipynb 裡面了...
 總之就是說一下。
+
+7/17  
+這邊的程序不太對，所以終止這個東東。  
+我應該先對 data cube 做 image domain 的 smooth，再生成 moment map
