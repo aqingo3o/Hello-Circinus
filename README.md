@@ -6,6 +6,13 @@ Making ratio maps of some moleculars in Circinus Galaxy with asrtopy (and modula
 然後我現在知道我 commit message 都在亂寫了啊啊呃算了
 >
 ---
+## Recommended scripts
+Overtime, bigger number newer script.  
+好的東西會是很多流水線的湯底...  
+1. py_HCN-CO_ifelLarger.ipynb
+2. HCN-CO_wask/py_HCN-CO_wask_v2.ipynb
+
+---
 ### mom0_smoothFirst/
 Results or codes that do imsmooth() on data cubes first  
 then generate moment maps will be placed here.
