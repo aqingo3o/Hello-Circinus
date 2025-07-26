@@ -29,7 +29,7 @@ Overtime, bigger number newer script.
 Results or codes that do imsmooth() on data cubes first  
 then generate moment maps will be placed here.
 ##
-### The .py(s) under Ratio-map/
+### miniScripts/
 Some costum functions/scripts  
 maybe useless or maybe useful?  
 afraid they would disappear in my messy ~/  
@@ -40,5 +40,5 @@ Do imsmooth() on mom0 that made in CARTA,
 then regrid, reconvol(<- that's actually wrong) and generate ratio map.  
 Seems to be incorrect workflow so I just closed this case.
 ##
-### py_oldData.ipynb under Ratio-map
+### oldData/
 Scripts I used when trying to reproduce the data processing of paper(Wilson et al. 2023).
