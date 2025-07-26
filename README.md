@@ -1,14 +1,26 @@
 # Ratio-Map
-Making ratio maps of some moleculars in Circinus Galaxy with asrtopy (and modular CASA, maybe)
-
+Exploring potential scientific insights using final science-ready data products. Calibration and imaging were performed beforehand and are not included here.  
+This project is part of the Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) Summer Student Program.  
+這邊先跪下來感謝忙得要死還一天一咪的老豆、讓我能參加 ssp 的金主&&瘋狂投餵我們的朱有花老師以及**這方面的專家**林俐暉老師  
+(還有幫我們在 PC 上 casa 裝到好的 cchelp 和搖人來修 carat 的對面老哥 supervisor)
 >
-任何人可以幫助我的破爛電波天文學/程式/數據處理/大腦/使用 github，我都會跪下來感謝您的。  
-然後我現在知道我 commit message 都在亂寫了啊啊呃算了
+- 任何人可以幫助我的破爛電波天文學/程式/數據處理/大腦/使用 github，我都會跪下來感謝您的。  
+- 然後我現在知道我 commit message 都在亂寫了啊啊呃算了  
+- 對於我的檔案結構是一坨（）我感到非常抱歉
+>
+**⚠️ This repo mainly serves as a personal log of the research process and may contain contain many imperfect operations .**  
 >
 ---
+## Tools
+- CASA 6.4.1
+- modular CASA (with Rosetta2)
+- CARTA v5.0.0 beta.1
+- python3.10
+- astropy
+- matplotlib, numpy
 ## Recommended scripts
 Overtime, bigger number newer script.  
-好的東西會是很多流水線的湯底...  
+（好的東西會是很多流水線的湯底...  
 1. py_HCN-CO_ifelLarger.ipynb
 2. HCN-CO_wask/py_HCN-CO_wask_v2.ipynb
 
