@@ -2,7 +2,7 @@
 Exploring potential scientific insights using final science-ready data products. Calibration and imaging were performed beforehand and are not included here.  
 This project is part of the Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) Summer Student Program.  
 這邊先跪下來感謝忙得要死還一天一咪的老豆、讓我能參加 ssp 的金主&&瘋狂投餵我們的朱有花老師以及**這方面的專家**林俐暉老師  
-(還有幫我們在 PC 上 casa 裝到好的 cchelp 和搖人來修 carat 的對面老哥 supervisor)
+(還有幫我們在 PC 上 casa 裝到好的 ccHelp 、搖人來修 carta 的對面老哥 supervisor)
 >
 - 任何人可以幫助我的破爛電波天文學/程式/數據處理/大腦/使用 github，我都會跪下來感謝您的。  
 - 然後我現在知道我 commit message 都在亂寫了啊啊呃算了  
