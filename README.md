@@ -1,4 +1,4 @@
-# Ratio-Map
+# Hello-Circinus
 Exploring potential scientific insights using final science-ready data products. Calibration and imaging were performed beforehand and are not included here.  
 This project is part of the Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) Summer Student Program.  
 這邊先跪下來感謝忙得要死還一天一咪的老豆、讓我能參加 ssp 的金主&&瘋狂投餵我們的朱有花老師以及**這方面的專家**林俐暉老師  
