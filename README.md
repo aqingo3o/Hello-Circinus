@@ -17,6 +17,7 @@ This project is part of the Academia Sinica Institute of Astronomy and Astrophys
 - CARTA v5.0.0 beta.1
 - python3.10
 - astropy
+- pPXF
 - matplotlib, numpy
 ## Recommended scripts
 Overtime, bigger number newer script.  
