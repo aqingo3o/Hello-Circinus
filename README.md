@@ -24,6 +24,7 @@ Overtime, bigger number newer script.
 （好的東西會是很多流水線的湯底...  
 1. py_HCN-CO_ifelLarger.ipynb
 2. HCN-CO_wask/py_HCN-CO_wask_v2.ipynb
+3. mom0_smooothFirst/py_cubeSmoother.ipynb
 
 ---
 ### mom0_smoothFirst/
@@ -43,3 +44,8 @@ Seems to be incorrect workflow so I just closed this case.
 ##
 ### oldData/
 Scripts I used when trying to reproduce the data processing of paper(Wilson et al. 2023).
+##
+### ionizedGas/
+Operations on an IFU for MUSE/VLT (pID:094.B-0321),  
+which is a optical observation and detected ionized gas emission.
+Here inclue marking emission lines, continuum subtraction, and BPT diagram.
