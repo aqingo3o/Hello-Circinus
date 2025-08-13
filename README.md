@@ -47,5 +47,5 @@ Scripts I used when trying to reproduce the data processing of paper(Wilson et a
 ##
 ### ionizedGas/
 Operations on an IFU for MUSE/VLT (pID:094.B-0321),  
-which is a optical observation and detected ionized gas emission.
+which is a optical observation and detected ionized gas emission.  
 Here inclue marking emission lines, continuum subtraction, and BPT diagram.
