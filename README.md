@@ -1,4 +1,6 @@
 # Hello-Circinus
+**⚠️ This repo mainly serves as a personal log of the research process and may contain contain many imperfect operations .**  
+>
 Exploring potential scientific insights using final science-ready data products. Calibration and imaging were performed beforehand and are not included here.  
 This project is part of the Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) Summer Student Program.  
 這邊先跪下來感謝忙得要死還一天一咪的老豆、讓我能參加 ssp 的金主&&瘋狂投餵我們的朱有花老師以及**這方面的專家**林俐暉老師  
@@ -8,7 +10,7 @@ This project is part of the Academia Sinica Institute of Astronomy and Astrophys
 - 然後我現在知道我 commit message 都在亂寫了啊啊呃算了  
 - 對於我的檔案結構是一坨（）我感到非常抱歉
 >
-**⚠️ This repo mainly serves as a personal log of the research process and may contain contain many imperfect operations .**  
+**⛔️ This repo will be deprecated soon. New stuff and future work will be put into the new repo -- Circinus-2509 .**  
 >
 ---
 ## Tools
