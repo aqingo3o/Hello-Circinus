@@ -51,3 +51,10 @@ Scripts I used when trying to reproduce the data processing of paper(Wilson et a
 Operations on an IFU for MUSE/VLT (pID:094.B-0321),  
 which is a optical observation and detected ionized gas emission.  
 Here inclue marking emission lines, continuum subtraction, and BPT diagram.
+##
+### tinyBeam/  
+Data with higher angular resolution were download from ALMA Science Archive (https://almascience.nrao.edu/aq/)  
+Process itself was largely a repeat of what was done before, but the earlier products barely made it into the FINAL WORK.  
+(I might add the slide of my ssp final presentation once my supervisor releases his required materials.)  
+**This whole thing was literally a week-long miracle :)**
+
