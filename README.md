@@ -10,7 +10,7 @@ This project is part of the Academia Sinica Institute of Astronomy and Astrophys
 - 然後我現在知道我 commit message 都在亂寫了啊啊呃算了  
 - 對於我的檔案結構是一坨（）我感到非常抱歉
 >
-**⛔️ This repo will be deprecated soon. New stuff and future work will be put into the new repo -- Circinus-2509 .**  
+**⛔️ This repo will be deprecated soon. New stuff and future work will be put into the new repo -- line-modeling_Circinus .**  
 >
 ---
 ## Tools
